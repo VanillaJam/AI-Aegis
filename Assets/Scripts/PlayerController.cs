@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed;      // Speed of movement
+    public float moveSpeed;       // Speed of movement
     public MazeGenerator mazeGenerator; // Reference to the MazeGenerator script
     public int startX = 1;             // Custom starting X position
     public int startY = 1;             // Custom starting Y position
@@ -13,6 +13,11 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+        //if (mazeGenerator != null)
+        //{
+        //    mazeGenerator.OnMazeReady += PlacePlayer;
+        //}
+
         PlacePlayer(); // Automatically place the player at the custom starting position
         targetPosition = transform.position;
     }
@@ -36,23 +41,13 @@ public class PlayerController : MonoBehaviour
 
     void PlacePlayer()
     {
-        if (mazeGenerator == null)
-        {
-            Debug.LogError("MazeGenerator reference is missing! Ensure the PlayerController has a reference to the MazeGenerator.");
-            return;
-        }
-
-        if (mazeGenerator.maze == null)
-        {
-            Debug.LogError("Maze data is not initialized! Ensure the MazeGenerator has completed maze generation before the player is placed.");
-            return;
-        }
-
         if (mazeGenerator == null || mazeGenerator.maze == null)
         {
             Debug.LogError("Maze data not found!");
             return;
         }
+        // Place the player at the guaranteed walkable cell (0, 0)
+        transform.position = new Vector2(0, 0);
 
         // Validate the custom starting position
         if (startX >= 0 && startX < mazeGenerator.width &&
@@ -113,5 +108,15 @@ public class PlayerController : MonoBehaviour
         }
 
         return !mazeGenerator.maze[x, y].isWall;
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Key"))
+        {
+            //FindObjectOfType<MazeGenerator>().CollectKey();
+            FindFirstObjectByType<MazeGenerator>().CollectKey();
+            Destroy(other.gameObject); // Remove the key from the scene
+        }
     }
 }
