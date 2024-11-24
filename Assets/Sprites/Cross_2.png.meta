@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 5c425fc8146a64b4bbdfa99247a46cbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7853092302089962681
+    second: Cross_2_0
+  - first:
+      213: 6905617361162958639
+    second: Cross_2_1
+  - first:
+      213: -2355906765041557192
+    second: Cross_2_2
+  - first:
+      213: 29810975286234029
+    second: Cross_2_3
+  - first:
+      213: 5824089240431364876
+    second: Cross_2_4
+  - first:
+      213: -8269827146934898959
+    second: Cross_2_5
+  - first:
+      213: -4696461773039013544
+    second: Cross_2_6
+  - first:
+      213: 2964835642511596792
+    second: Cross_2_7
+  - first:
+      213: -5004156358102286041
+    second: Cross_2_8
+  - first:
+      213: 937718789872660184
+    second: Cross_2_9
+  - first:
+      213: -8677015666351551467
+    second: Cross_2_10
+  - first:
+      213: -1311522848964715948
+    second: Cross_2_11
+  - first:
+      213: 911990459084078961
+    second: Cross_2_12
+  - first:
+      213: 223218567015569708
+    second: Cross_2_13
+  - first:
+      213: 4023992289231864091
+    second: Cross_2_14
+  - first:
+      213: 2772833301512376827
+    second: Cross_2_15
+  - first:
+      213: 8534995722865754808
+    second: Cross_2_16
+  - first:
+      213: 3535708867816182941
+    second: Cross_2_17
+  - first:
+      213: 2356675855573682737
+    second: Cross_2_18
+  - first:
+      213: 671033462057398209
+    second: Cross_2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1024
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cross_2_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 853
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bb291a826340390800000000000000
+      internalID: -7853092302089962681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 836
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2773e6076ea5df50800000000000000
+      internalID: 6905617361162958639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 889
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83122c187432e4fd0800000000000000
+      internalID: -2355906765041557192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 870
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab08509ce8e96000800000000000000
+      internalID: 29810975286234029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 872
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b061c8e4253d050800000000000000
+      internalID: 5824089240431364876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_5
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 886
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe2019760cab3d80800000000000000
+      internalID: -8269827146934898959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 164
+        width: 575
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851fecc76e0d2deb0800000000000000
+      internalID: -4696461773039013544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 875
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc1259fe46352920800000000000000
+      internalID: 2964835642511596792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 874
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7210dc23e4aad8ab0800000000000000
+      internalID: -5004156358102286041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 870
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dea1996542730d00800000000000000
+      internalID: 937718789872660184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 829
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ccd98693c059780800000000000000
+      internalID: -8677015666351551467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 805
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a56a8eae88ccde0800000000000000
+      internalID: -1311522848964715948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_12
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 244
+        width: 214
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f70489d7a08ac00800000000000000
+      internalID: 911990459084078961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 158
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c291c32aa18091300800000000000000
+      internalID: 223218567015569708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 180
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b118392caa718d730800000000000000
+      internalID: 4023992289231864091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 175
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1d40652351b7620800000000000000
+      internalID: 2772833301512376827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_16
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 145
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b244ecb365627670800000000000000
+      internalID: 8534995722865754808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 185
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94d1677b7c511130800000000000000
+      internalID: 3535708867816182941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 159
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8536543894b020800000000000000
+      internalID: 2356675855573682737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_2_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 152
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfe452e06dff4900800000000000000
+      internalID: 671033462057398209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cross_2_0: -7853092302089962681
+      Cross_2_1: 6905617361162958639
+      Cross_2_10: -8677015666351551467
+      Cross_2_11: -1311522848964715948
+      Cross_2_12: 911990459084078961
+      Cross_2_13: 223218567015569708
+      Cross_2_14: 4023992289231864091
+      Cross_2_15: 2772833301512376827
+      Cross_2_16: 8534995722865754808
+      Cross_2_17: 3535708867816182941
+      Cross_2_18: 2356675855573682737
+      Cross_2_19: 671033462057398209
+      Cross_2_2: -2355906765041557192
+      Cross_2_3: 29810975286234029
+      Cross_2_4: 5824089240431364876
+      Cross_2_5: -8269827146934898959
+      Cross_2_6: -4696461773039013544
+      Cross_2_7: 2964835642511596792
+      Cross_2_8: -5004156358102286041
+      Cross_2_9: 937718789872660184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
